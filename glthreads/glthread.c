@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /*Private function to add a new_node right after curr_node*/
-void
+static void
 _glthread_add_next(glthread_node_t *curr_node, 
                    glthread_node_t *new_node){
 
