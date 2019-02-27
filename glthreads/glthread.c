@@ -1,5 +1,6 @@
 #include "glthread.h"
 #include <stdlib.h>
+#include <stdio.h>
 
 /*Private function to add a new_node right after curr_node*/
 static void
